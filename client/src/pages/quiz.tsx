@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Brain, Settings, Sprout, Sparkles, Share2, Zap } from "lucide-react";
-import cysicLogo from "@assets/generated_images/Cysic_blockchain_technology_logo_c77354e3.png";
+import cysicLogo from "@assets/cysic_logo_1762150050676.png";
 
 const questionPool = [
   { q: "What does Cysic focus on?", a: ["Blockchain storage", "Zero-knowledge hardware acceleration", "NFT art", "SocialFi"], correct: 1 },
